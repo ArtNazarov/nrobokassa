@@ -19,7 +19,7 @@ Robokassa nodejs
 
 Зависимости
 ============
-npm install express --save
+```npm install express --save
 npm install body-parser --save
-npm install md5 --save
+npm install md5 --save```
 
