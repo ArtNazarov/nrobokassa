@@ -23,6 +23,18 @@ Robokassa nodejs
 npm install body-parser --save
 npm install md5 --save```
 
+Установите forever или nodemon для запуска процесса
+
+Пуск сервиса
+============
+```
+nodemon index.js
+```
+или
+```
+forever start index.js
+```
+
 DISCLAIMER 
 ===========
 This program comes absolutely free and with no warranty. 
