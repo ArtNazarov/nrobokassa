@@ -23,3 +23,14 @@ Robokassa nodejs
 npm install body-parser --save
 npm install md5 --save```
 
+DISCLAIMER 
+===========
+This program comes absolutely free and with no warranty. 
+You must use this code and it derivatives at your own risk. 
+Do what you want with this code, it's not our problem
+
+ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ
+========================
+Этот код предоставляется совершенно бесплатно и без гарантий
+Вы используете его или его производные на свой страх и риск
+Чтобы Вы не делали с этим кодом, это не наша проблема
