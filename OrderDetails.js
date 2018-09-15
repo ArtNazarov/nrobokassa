@@ -34,6 +34,6 @@ this.encoding = "utf-8";
 }
 getCrc(){
   var md5 = require('md5');
-  return md5(`${this.mrh_login}:${this.out_summ}:${this.inv_id}:${this.mrh_pass1}:S{this.hp_item}=${this.shp_item}`);
+  return md5(`${this.mrh_login}:${this.out_summ}:${this.inv_id}:${this.mrh_pass1}:Shp_item=${this.shp_item}`);
 }
 }
